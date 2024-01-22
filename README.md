@@ -8,7 +8,7 @@
 Use Growtopia 4.19 🇹🇰
 
 # Download
-* [Download](https://github.com/Official-HertZ/Growpai/releases/download/gpai/inzector.zip)
+* [Download](https://gofile.io/d/RJHqCm)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
