@@ -1,6 +1,6 @@
 # This is the real Github (Check name github Official-HertZ)
 # Version
-* Version : <b>4.47</b> 
+* Version : <b>4.48</b> 
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
@@ -8,7 +8,7 @@
 Use Growtopia 4.19 🇹🇰
 
 # Download
-* [Download](https://gofile.io/d/B3PkDQ)
+* [Download]([https://gofile.io/d/B3PkDQ](https://github.com/Official-HertZ/Growpai/releases/download/inzector/Inzector.zip))
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
